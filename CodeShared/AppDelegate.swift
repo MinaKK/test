@@ -1,4 +1,4 @@
-//
+
 //  AppDelegate.swift
 //  CodeShared
 //
@@ -15,8 +15,22 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        //封装一个设置Window的方法
+        configRootVC()
+        
         return true
+    }
+    //生成window,并将标签栏视图控制器作为他的根视图
+    func configRootVC(){
+        
+        window = UIWindow.init(frame:UIScreen.mainScreen().bounds)
+        
+        window?.rootViewController = STabBarController()
+        
+        window?.makeKeyAndVisible()
+        
+        
     }
 
     func applicationWillResignActive(application: UIApplication) {
