@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (2.0.2)
+  - JKCategories (1.3)
+  - SnapKit (0.15.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - JKCategories
+  - SnapKit (~> 0.15.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  JKCategories: 610e9773cab21a3952f5dfa6ecae35fd48631dbc
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+
+PODFILE CHECKSUM: 9cfa6a5e65428684c7ef0dcdcfe730fdc91ba08c
+
+COCOAPODS: 1.0.1
