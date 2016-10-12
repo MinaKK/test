@@ -1,0 +1,6 @@
+framework module Pods_CodeShared {
+  umbrella header "Pods-CodeShared-umbrella.h"
+
+  export *
+  module * { export * }
+}
