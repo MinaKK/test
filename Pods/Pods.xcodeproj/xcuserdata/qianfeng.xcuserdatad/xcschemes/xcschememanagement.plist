@@ -9,12 +9,32 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>FDFullscreenPopGesture.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>IQKeyboardManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>JKCategories.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-CodeShared.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ReactiveCocoa.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Result.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -32,17 +52,37 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>303B3AC6DD17B1EE7D98EF8BF8898BEB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>4B2F30D90D85A544E9EFE2A49D392C25</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>73ACEDA88D2D213C8F1994946C274F90</key>
+		<key>5855D213D188EE14086C1F827DE7B1FF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7D69DC5C57721FB7AA6ACF90B2371D78</key>
+		<key>9B9E2BA28F66093B82F34C682263F4F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6C4B3387D20EEB7570329A51C40EE72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B78E4381199E67A6D0C9B800A9333C71</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BE86BCC319994F1382250867947BF93E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

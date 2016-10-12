@@ -19,7 +19,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //封装一个设置Window的方法
         configRootVC()
         
+        //告诉第三方库打开了app，即设置MobSMSSDK
+        setupMod()
+        
         return true
+    }
+    func setupMod(){
+
+        SMSSDK.registerApp(MobApp, withSecret: MobSecret)
+        
     }
     //生成window,并将标签栏视图控制器作为他的根视图
     func configRootVC(){
